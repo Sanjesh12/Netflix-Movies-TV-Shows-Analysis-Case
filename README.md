@@ -38,6 +38,6 @@ The analysis revealed significant insights into Netflix's content offerings:
 ### Conclusion
 This project provides valuable insights into Netflix's content strategy and can help inform future decisions regarding content production and release timing.
 
-Prolect link: [https://github.com/Sanjesh12/Scaler_Data_Science_projects/blob/main/Netflix%20Data%20Exploration%20Business%20Case2.ipynb%20-%20Colab.pdf](url)
+
 
 
